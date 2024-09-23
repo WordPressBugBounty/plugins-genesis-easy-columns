@@ -1,0 +1,1 @@
+# plugins-genesis-easy-columns
